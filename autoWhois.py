@@ -18,7 +18,7 @@ if __name__ == "__main__" :
                 if len(s) == 0:
                     break
         
-        print("全部 ip 讀取")
+        print("全部 ip 讀取") 
         #print(ip_all)
         
         with open("ip_to_conutry.txt", "w", encoding="UTF8") as f1 :
